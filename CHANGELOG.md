@@ -1,3 +1,5 @@
+# [v0.0.15.1] - 02-04-2026
+**Full Changelog**: https://github.com/CaffeeLake/tiktoken_ruby/commits/v0.0.15.1
 # [v0.0.15.1] - 07-01-2026
 ## What's Changed
 * Re-release 0.0.15 for mistakenly yanked gems by @gjtorikian in https://github.com/IAPark/tiktoken_ruby/pull/105

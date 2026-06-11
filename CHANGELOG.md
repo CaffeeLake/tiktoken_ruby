@@ -1,3 +1,5 @@
+# [v0.0.16] - 11-06-2026
+**Full Changelog**: https://github.com/CaffeeLake/tiktoken_ruby/commits/v0.0.16
 # [v0.0.16] - 02-05-2026
 ## What's Changed
 * Bump rb-sys from 0.9.123 to 0.9.124 in the cargo group by @dependabot[bot] in https://github.com/IAPark/tiktoken_ruby/pull/107

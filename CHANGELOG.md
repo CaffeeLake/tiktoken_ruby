@@ -1,3 +1,19 @@
+## [0.1.0](https://github.com/CaffeeLake/tiktoken_ruby/commits/v0.1.0) (2026-09-30)
+
+### Features
+
+* **decode:** Add opt-in lossy mode and decode_bytes ([#123](https://github.com/CaffeeLake/tiktoken_ruby/pull/123))
+
+### Bug Fixes
+
+* bundle.lock bump ([#126](https://github.com/CaffeeLake/tiktoken_ruby/pull/126))
+* **ext:** adapt CoreBPE::encode to fallible tiktoken-rs 0.12.0 API ([#120](https://github.com/CaffeeLake/tiktoken_ruby/pull/120))
+
+### Miscellaneous Chores
+
+* tiktoken-rs to 0.7.0 + new model support ([#68](https://github.com/CaffeeLake/tiktoken_ruby/pull/68))
+
+
 # [v0.0.17] - 18-07-2026
 ## What's Changed
 * Bump the github-actions group with 2 updates by @dependabot[bot] in https://github.com/IAPark/tiktoken_ruby/pull/119
